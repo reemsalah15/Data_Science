@@ -1,8 +1,8 @@
- #Maven MegaMart Project
+ # Maven MegaMart Project
 
 Maven MegaMar is planning to acquire another retailer to expand our market share. As part of the due diligence process, they’ve sent us over several tables relating to their customers and sales.
 
-##Key Objectives:
+## Key Objectives:
  Read in data from multiple csv files 
  Explore the data (millions of rows!) 
  Join multiple DataFrames
